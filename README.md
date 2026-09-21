@@ -70,90 +70,89 @@ Loading weights: 100%|███████████████████�
 ✅ Indexed [paper_027] – Received 27 July 2024; revised 7 September 2024; accepted 30 September 2024. Date of publication 4 October 2024; date of current version 18 April 2025.  
 
 🚀 All done!  Vector store is ready for queries.
-  
-🗄️  **CONTENTS OF VECTOR STORE**  
+
+**Contents of vector store**  
 ID: 29698761710  
 Payload: {'paper_id': 'paper_023', 'title': 'Original Paper', 'venue': 'Custom Upload', 'year': 2024}  
-------------------------------
+  
 ID: 35781349760
 Payload: {'paper_id': 'paper_002', 'title': 'Published as a conference paper at ICLR 2021', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 129352152961
 Payload: {'paper_id': 'paper_017', 'title': 'Provided proper attribution is provided, Google hereby grants permission to', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 208676625626
 Payload: {'paper_id': 'paper_014', 'title': 'arXiv:2506.06950v1  [cs.CL]  7 Jun 2025', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 229840648910
 Payload: {'paper_id': 'paper_004', 'title': 'Impact of Tokenization on Language Models: An Analysis for Turkish', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 250135433360
 Payload: {'paper_id': 'paper_025', 'title': 'PROMPT ENGINEERING AND THE EFFECTIVENESS OF LARGE', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 375570028444
 Payload: {'paper_id': 'paper_003', 'title': 'Chain-of-Thought Prompting Elicits Reasoning', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 380741671539
 Payload: {'paper_id': 'paper_009', 'title': 'A Systematic Survey of Prompt Engineering in Large Language Models:', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 389061340577
 Payload: {'paper_id': 'paper_027', 'title': 'Received 27 July 2024; revised 7 September 2024; accepted 30 September 2024. Date of publication 4 October 2024; date of current version 18 April 2025.', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 393088318973
 Payload: {'paper_id': 'paper_020', 'title': 'Mind the (Language) Gap:', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 402204764309
 Payload: {'paper_id': 'paper_015', 'title': ' ', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 412431111409
 Payload: {'paper_id': 'paper_026', 'title': '51', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 430066168314
 Payload: {'paper_id': 'paper_016', 'title': 'On the Dangers of Stochastic Parrots:', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 433136887834
 Payload: {'paper_id': 'paper_013', 'title': 'Native vs Non-Native Language Prompting:', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 436440404836
 Payload: {'paper_id': 'paper_011', 'title': 'The Prompt Report: A Systematic Survey of Prompt Engineering', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 478680215908
 Payload: {'paper_id': 'paper_022', 'title': 'Language Models are Few-Shot Learners', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 579403429177
 Payload: {'paper_id': 'paper_012', 'title': 'Instruction Pre-Training:', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 614010675458
 Payload: {'paper_id': 'paper_001', 'title': 'Provided proper attribution is provided, Google hereby grants permission to', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 629275246269
 Payload: {'paper_id': 'paper_008', 'title': 'Unnatural language processing:', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 684719331738
 Payload: {'paper_id': 'paper_019', 'title': 'DOI 10.1515/cllt-2013-0009\u2003\u2003\u2003Corpus Linguistics and Ling. Theory 2013; 9(1): 1\u200a–\u200a38', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 700813474610
 Payload: {'paper_id': 'paper_024', 'title': 'CONTEMPORARY JOURNAL OF SOCIAL SCIENCE REVIEW  ', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 711106629323
 Payload: {'paper_id': 'paper_021', 'title': 'Volume 10, Issue 3, March – 2025     ', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 746459892396
 Payload: {'paper_id': 'paper_006', 'title': '© 2022 IEEE. This is the author’s version of the article that has been published in IEEE Transactions on Visualization and', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 753470395614
 Payload: {'paper_id': 'paper_018', 'title': 'Unknown Title', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 821701376048
 Payload: {'paper_id': 'paper_007', 'title': 'Published as a conference paper at ICLR 2023', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 904377591822
 Payload: {'paper_id': 'paper_010', 'title': 'Efficient Prompting Methods for Large Language Models: A', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------
+  
 ID: 962447765212
 Payload: {'paper_id': 'paper_005', 'title': 'Large Language Models are Zero-Shot Reasoners', 'venue': 'Custom Upload', 'year': 2024}
-------------------------------  
-
+    
 **embedded articles comparison with plot output**  
 python analyze_my_research.py  
 ![Radar_plot](img/my_paper_radar.png)  
